@@ -15,3 +15,5 @@ True
 1
 False
 """
+
+print('Hello world')
