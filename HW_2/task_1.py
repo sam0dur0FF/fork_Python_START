@@ -12,4 +12,4 @@
 11
 """
 
-print('task_1 of HW_2')
+print('task_1 of HW_2 wad done')
